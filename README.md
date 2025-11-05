@@ -38,12 +38,12 @@ The project uses a collection of **English tweets** labeled with sentiment infor
 ### Class Distribution
 
 ![Label Distribution](images/label_distribution.png)
-*Figure 1: Initial distribution of sentiment labels in the dataset*
+*Figure 1: Initial distribution of sentiment*
 
 ### Text Statistics
 
 ![Tweet Length](images/tweet_length.png)
-*Figure 2: Average tweet length per sentiment class*
+*Figure 2: Average tweet length*
 
 ### Word Clouds
 
