@@ -265,9 +265,7 @@ The confusion matrix reveals that:
 ├── model.pth                          # Trained model weights
 ├── vectorizer.pkl                     # TF-IDF vectorizer
 ├── label_encoder.pkl                  # Label encoder
-├── logs/                              # TensorBoard logs
-├── images/                            # Plots and visualizations
-└── README.md                          # This file
+└── images/                            # Plots and visualizations
 ```
 
 ## 👨‍💻 Authors
